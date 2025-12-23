@@ -15,3 +15,4 @@ for($i=4;$i>0;$i--){
 }
 
 echo "Hello solve the problem";
+echo "Thanks for solving";
